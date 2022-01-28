@@ -1,0 +1,50 @@
+
+-----Yeni Kişi----- 
+Öğrenci Adı Soyadı : Mehmet Ahmetoğlu
+Vize Notu : 17.0
+Final Notu : 40
+Büt Notu : 70.0
+Ortalama Not : 48.8
+Harf Notunuz FF Kaldınız
+-----Yeni Kişi----- 
+Öğrenci Adı Soyadı : Ali Velioğlu
+Vize Notu : 44
+Final Notu : 80
+Büt Notu : 80
+Ortalama Not : 65.6
+Harf Notunuz DC Geçtiniz
+-----Yeni Kişi----- 
+Öğrenci Adı Soyadı : Ayşe Katipoğlu
+Vize Notu : 90
+Final Notu : 50
+Büt Notu : 50
+Ortalama Not : 66.0
+Harf Notunuz DC Geçtiniz
+-----Yeni Kişi----- 
+Öğrenci Adı Soyadı : Berke Çakır
+Vize Notu : 80
+Final Notu : 90
+Büt Notu : 90
+Ortalama Not : 86.0
+Harf Notunuz BA Geçtiniz
+-----Yeni Kişi----- 
+Öğrenci Adı Soyadı : Faruk Aydın
+Vize Notu : 20.0
+Final Notu : 20
+Büt Notu : 100.0
+Ortalama Not : 68.0
+Harf Notunuz DC Geçtiniz
+-----Yeni Kişi----- 
+Öğrenci Adı Soyadı : Alperen
+Vize Notu : 20.0
+Final Notu : 30
+Büt Notu : 100.0
+Ortalama Not : 68.0
+Harf Notunuz DC Geçtiniz
+-----Yeni Kişi----- 
+Öğrenci Adı Soyadı : faruk
+Vize Notu : 90
+Final Notu : 100
+Büt Notu : 100
+Ortalama Not : 96.0
+Harf Notunuz AA Geçtiniz
